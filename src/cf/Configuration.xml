@@ -493,6 +493,7 @@
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
 			<Catalog>НеОченьПолезныйСправочник</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
